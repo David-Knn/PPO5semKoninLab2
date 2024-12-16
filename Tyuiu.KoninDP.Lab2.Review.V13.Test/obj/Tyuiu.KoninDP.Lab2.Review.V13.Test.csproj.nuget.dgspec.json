@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.Review.V13.Test\\Tyuiu.KoninDP.Lab2.Review.V13.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.Review.V13.Lib\\Tyuiu.KoninDP.Lab2.Review.V13.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.Review.V13.Lib\\Tyuiu.KoninDP.Lab2.Review.V13.Lib.csproj",
+        "projectName": "Tyuiu.KoninDP.Lab2.Review.V13.Lib",
+        "projectPath": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.Review.V13.Lib\\Tyuiu.KoninDP.Lab2.Review.V13.Lib.csproj",
+        "packagesPath": "C:\\Users\\konin\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.Review.V13.Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\konin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.Review.V13.Test\\Tyuiu.KoninDP.Lab2.Review.V13.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.Review.V13.Test\\Tyuiu.KoninDP.Lab2.Review.V13.Test.csproj",
+        "projectName": "Tyuiu.KoninDP.Lab2.Review.V13.Test",
+        "projectPath": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.Review.V13.Test\\Tyuiu.KoninDP.Lab2.Review.V13.Test.csproj",
+        "packagesPath": "C:\\Users\\konin\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.Review.V13.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\konin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.Review.V13.Lib\\Tyuiu.KoninDP.Lab2.Review.V13.Lib.csproj": {
+                "projectPath": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.Review.V13.Lib\\Tyuiu.KoninDP.Lab2.Review.V13.Lib.csproj"
+              },
+              "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.TaskReview.V13\\Tyuiu.KoninDP.Lab2.Review.V13.csproj": {
+                "projectPath": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.TaskReview.V13\\Tyuiu.KoninDP.Lab2.Review.V13.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.TaskReview.V13\\Tyuiu.KoninDP.Lab2.Review.V13.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.TaskReview.V13\\Tyuiu.KoninDP.Lab2.Review.V13.csproj",
+        "projectName": "Tyuiu.KoninDP.Lab2.Review.V13",
+        "projectPath": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.TaskReview.V13\\Tyuiu.KoninDP.Lab2.Review.V13.csproj",
+        "packagesPath": "C:\\Users\\konin\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.TaskReview.V13\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\konin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.Review.V13.Lib\\Tyuiu.KoninDP.Lab2.Review.V13.Lib.csproj": {
+                "projectPath": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab2.Review\\Tyuiu.KoninDP.Lab2.Review.V13.Lib\\Tyuiu.KoninDP.Lab2.Review.V13.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

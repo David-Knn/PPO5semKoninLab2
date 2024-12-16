@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tyuiu.KoninDP.Lab2.Review.V13.Lib/1.0.0": {
+        "runtime": {
+          "Tyuiu.KoninDP.Lab2.Review.V13.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tyuiu.KoninDP.Lab2.Review.V13.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
